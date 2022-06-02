@@ -1,0 +1,40 @@
+@media (max-width:800px) {
+    .section-1 {
+        flex-direction: column;
+        width: 100%;
+    }
+    .content-1 {
+        flex-direction: column;
+    }
+    .card-section-21 {
+        flex-direction: column;
+        width: 100%;
+    }
+    .card-section-22 {
+        flex-direction: column;
+        width: 100%;
+    }
+    .card-section-23 {
+        flex-direction: column;
+        width: 100%;
+    }
+    .hard {
+        flex-direction: column;
+        width: 100%;
+    }
+    .left-side {
+        width: 100%;
+    }
+    .right-side {
+        width: 100%;
+    }
+    .left-side2 {
+        width: 100%;
+    }
+    .right-side2 {
+        width: 100%;
+    }
+    .sectionlast {
+        flex-direction: column;
+    }
+}
